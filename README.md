@@ -1,3 +1,8 @@
+Fork of Litarvan/pronote-api
+Personal using for @bugsounet
+
+Don't use it, please use Original npm library located in https://npmjs.org/package/pronote-api
+
 # Pronote API - LISEZ MOI ABSOLUMENT
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Litarvan/pronote-api/Node.js%20linting%20and%20testing/master?label=tests&logo=github&style=flat-square)
