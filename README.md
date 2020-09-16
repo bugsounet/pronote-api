@@ -1,4 +1,5 @@
 Fork of Litarvan/pronote-api
+
 Personal using for @bugsounet
 
 Don't use it, please use Original npm library located in https://npmjs.org/package/pronote-api
