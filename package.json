@@ -1,34 +1,20 @@
 {
-    "name": "pronote-api",
-    "version": "2.2.0",
-    "description": "Pronote 2020/2021 API (Node.JS/TS library, and GraphQL server)",
+    "name": "@bugsounet/pronote-api",
+    "version": "1.0.3",
+    "description": "Personal Pronote api for MMM-Pronote",
     "main": "index.js",
-    "types": "index.d.ts",
-    "type": "commonjs",
-    "engines": {
-        "node": ">=11.14.0"
-    },
-    "scripts": {
-        "start": "node ./bin/server.js",
-        "lint": "eslint src/* bin/* index.js",
-        "check": "eslint --fix src/* bin/* index.js",
-        "test": "eslint src/* bin* index.js && node ./bin/fetch.js https://demo.index-education.net/pronote/ demonstration pronotevs"
-    },
     "keywords": [
-        "pronote",
-        "api",
-        "http",
-        "2020"
+        "pronote"
     ],
-    "author": "Adrien 'Litarvan' Navratil <adrien1975@live.fr>",
+    "author": [
+        "Adrien 'Litarvan' Navratil <adrien1975@live.fr>",
+        "bugsounet <bugsounet@bugsounet.fr>",
+        "Julien \"delphiki\" Villetorte"
+    ],
     "license": "MIT",
     "repository": {
-        "url": "https://github.com/Litarvan/pronote-api.git",
+        "url": "https://github.com/bugsounet/pronote-api.git",
         "type": "git"
-    },
-    "bin": {
-        "pronote-api-server": "./bin/server.js",
-        "pronote-fetch": "./bin/fetch.js"
     },
     "dependencies": {
         "axios": "^0.19",
@@ -40,11 +26,5 @@
         "polka": "^0.5.2",
         "string-strip-html": "^5.0.1",
         "uuid": "^8.3.0"
-    },
-    "devDependencies": {
-        "@types/node-forge": "^0.6",
-        "@types/pako": "^1.0",
-        "eslint": "^7.6.0",
-        "eslint-plugin-node": "^11.1.0"
     }
 }
