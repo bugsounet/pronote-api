@@ -6,7 +6,6 @@ module.exports = (url, account, username, password) => wayf({
     username,
     password,
 
-    casUrl: 'cas.eclat-bfc.fr',
-    idp: 'DIJON-ATS_parent_eleve_2D',
-    atenURL: 'teleservices.ac-dijon.fr'
+    casUrl: 'cas.ent27.fr',
+    idp: 'ATS'
 });
