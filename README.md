@@ -36,7 +36,8 @@ Sinon, l'API propose de se connecter à Pronote avec des comptes des académies 
 
 - Académie d'Orleans-Tours (CAS : ac-orleans-tours)
 - Académie de Besançon (CAS : ac-besancon)
-- Académie de Bordeaux (CAS : ac-bordeaux)
+- Académie de Bordeaux (CAS : ac-bordeaux) (bv.ac-bordeaux.fr)
+- Académie de Bordeaux 2 (CAS : ac-bordeaux2) (idp-fim-ts.ac-bordeaux.fr)
 - Académie de Caen (CAS : ac-caen)
 - Académie de Clermont-Ferrand (CAS : ac-clermont)
 - Académie de Dijon (CAS : ac-dijon)
@@ -62,6 +63,7 @@ Sinon, l'API propose de se connecter à Pronote avec des comptes des académies 
 - ENT "Somme" (CAS : somme)
 - ENT "Toutatice" (Rennes) (CAS : toutatice)
 - ENT "Île de France" (CAS : iledefrance)
+- ENT "Paris Classe Numerique" (CAS : parisclassenumerique)
 - ENT "Lycee Jean Renoir Munich" (CAS : ljr-munich)
 - ENT "L'eure en Normandie" (CAS : Eure-Normandie)
 
@@ -94,8 +96,8 @@ async function main()
     console.log(`L'élève a ${timetable.length} cours aujourd'hui`); 
     console.log(`et a pour l'instant une moyenne de ${marks.averages.student} ce trimestre.`);
     
-    // etc. les fonctions utilisables sont 'timetable', 'marks', 'contents', 'evaluations', 'absences',
-    // 'infos', et 'menu', sans oublier les champs 'user' et 'params' qui regorgent d'informations.
+    // etc. les fonctions utilisables sont 'timetable', 'marks', 'contents', 'evaluations', 'absences', 
+    // 'homeworks', 'infos', et 'menu', sans oublier les champs 'user' et 'params' qui regorgent d'informations.
 }
 
 main().catch(err => {
