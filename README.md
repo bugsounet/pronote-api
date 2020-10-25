@@ -9,9 +9,13 @@ Don't use it, please use Original npm library located in https://npmjs.org/packa
 API Pronote **2020/2021** complète et plutôt stable avec intégration de nombreux CAS (connexion avec comptes spéciaux pour les régions).
 
 Disponible en tant que :
+<<<<<<< HEAD
 - Librairie Node.JS [via NPM](https://www.npmjs.com/package/pronote-api) (note : **support TypeScript** complet)
 
 **Nouveauté 2020/2021 : [Session conservable](#conserver-la-session)**
+=======
+- Librairie Node.JS [via NPM](https://www.npmjs.com/package/pronote-api)
+>>>>>>> master
 
 ## Données récupérables
 
