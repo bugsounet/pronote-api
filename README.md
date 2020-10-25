@@ -24,7 +24,7 @@ Disponible en tant que :
 - Informations
 - Menu de la cantine
 
-À chaque fois, il est possible de choisir quelle période voire quel intervalle de jours récupérer précisément.
+À chaque fois, il est possible de choisir quelle période voire quelle intervalle de jours récupérer précisément.
 
 ## Comptes région supportés
 
@@ -34,35 +34,39 @@ Disponible en tant que :
 
 Sinon, l'API propose de se connecter à Pronote avec des comptes des académies suivantes :
 
-- Académie d'Orleans-Tours (CAS : ac-orleans-tours)
-- Académie de Besançon (CAS : ac-besancon)
-- Académie de Bordeaux (CAS : ac-bordeaux) (bv.ac-bordeaux.fr)
-- Académie de Bordeaux 2 (CAS : ac-bordeaux2) (idp-fim-ts.ac-bordeaux.fr)
-- Académie de Caen (CAS : ac-caen)
-- Académie de Clermont-Ferrand (CAS : ac-clermont)
-- Académie de Dijon (CAS : ac-dijon)
-- Académie de Grenoble (CAS : ac-grenoble)
-- Académie de Lille (CAS : ac-lille)
-- Académie de Limoges (CAS : ac-limoges)
-- Académie de Lyon (CAS : ac-lyon)
-- Académie de Montpellier (CAS : ac-montpellier)
-- Académie de Nancy-Metz (CAS : ac-nancy-metz)
-- Académie de Nantes (CAS : ac-nantes)
-- Académie de Poitiers (CAS : ac-poitiers)
-- Académie de Reims (CAS : ac-reims)
-- Académie de Rouen (Arsene76) (CAS : arsene76)
-- Académie de Rouen (CAS : ac-rouen)
-- Académie de Strasbourg (CAS : ac-strasbourg)
-- Académie de Toulouse (CAS : ac-toulouse)
-- ENT "Agora 06" (Nice) (CAS : agora06)
-- ENT "Haute-Garonne" (CAS : haute-garonne)
-- ENT "Hauts-de-France" (CAS : hdf)
-- ENT "La Classe" (Lyon) (CAS : laclasse)
-- ENT "Lycee Connecte" (Nouvelle-Aquitaine) (CAS : lyceeconnecte)
-- ENT "Seine-et-Marne" (CAS : seine-et-marne)
-- ENT "Somme" (CAS : somme)
-- ENT "Toutatice" (Rennes) (CAS : toutatice)
-- ENT "Île de France" (CAS : iledefrance)
-- ENT "Paris Classe Numerique" (CAS : parisclassenumerique)
-- ENT "Lycee Jean Renoir Munich" (CAS : ljr-munich)
-- ENT "L'eure en Normandie" (CAS : Eure-Normandie)
+<details>
+  <summary>CAS list</summary> 
+    
+    - Académie d'Orleans-Tours (CAS : ac-orleans-tours)
+    - Académie de Besançon (CAS : ac-besancon)
+    - Académie de Bordeaux (CAS : ac-bordeaux) (bv.ac-bordeaux.fr)
+    - Académie de Bordeaux 2 (CAS : ac-bordeaux2) (idp-fim-ts.ac-bordeaux.fr)
+    - Académie de Caen (CAS : ac-caen)
+    - Académie de Clermont-Ferrand (CAS : ac-clermont)
+    - Académie de Dijon (CAS : ac-dijon)
+    - Académie de Grenoble (CAS : ac-grenoble)
+    - Académie de Lille (CAS : ac-lille)
+    - Académie de Limoges (CAS : ac-limoges)
+    - Académie de Lyon (CAS : ac-lyon)
+    - Académie de Montpellier (CAS : ac-montpellier)
+    - Académie de Nancy-Metz (CAS : ac-nancy-metz)
+    - Académie de Nantes (CAS : ac-nantes)
+    - Académie de Poitiers (CAS : ac-poitiers)
+    - Académie de Reims (CAS : ac-reims)
+    - Académie de Rouen (Arsene76) (CAS : arsene76)
+    - Académie de Rouen (CAS : ac-rouen)
+    - Académie de Strasbourg (CAS : ac-strasbourg)
+    - Académie de Toulouse (CAS : ac-toulouse)
+    - ENT "Agora 06" (Nice) (CAS : agora06)
+    - ENT "Haute-Garonne" (CAS : haute-garonne)
+    - ENT "Hauts-de-France" (CAS : hdf)
+    - ENT "La Classe" (Lyon) (CAS : laclasse)
+    - ENT "Lycee Connecte" (Nouvelle-Aquitaine) (CAS : lyceeconnecte)
+    - ENT "Seine-et-Marne" (CAS : seine-et-marne)
+    - ENT "Somme" (CAS : somme)
+    - ENT "Toutatice" (Rennes) (CAS : toutatice)
+    - ENT "Île de France" (CAS : iledefrance)
+    - ENT "Paris Classe Numerique" (CAS : parisclassenumerique)
+    - ENT "Lycee Jean Renoir Munich" (CAS : ljr-munich)
+    - ENT "L'Eure en Normandie" (CAS : eure-normandie)
+</details>
