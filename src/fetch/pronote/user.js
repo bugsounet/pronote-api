@@ -105,10 +105,6 @@ function getStudent(session, res)
 {
     const avatar = {};
     if (res.avecPhoto) {
-<<<<<<< HEAD
-=======
-        // only for student mode
->>>>>>> master
         avatar.avatar = getFileURL(session, {
             id: res.N,
             name: 'photo.jpg'
@@ -156,13 +152,8 @@ function getParentData(session, data)
             absencesReasons: parse(data.listeMotifsAbsences),
             delaysReasons: parse(data.listeMotifsRetards),
             classDelegates: parse(res.listeClassesDelegue),
-<<<<<<< HEAD
             students: res.listeRessources.map(r => fromPronote(r, ({ listeSessions }) => ({
                 ...getStudent(session, r),
-=======
-            students: res.listeRessources.map(r => fromPronote(r, ({ listeSessions, ...user }) => ({
-                ...getStudent(session, user),
->>>>>>> master
                 sessions: parse(listeSessions, ({ date, strHeureDebut, strHeureFin }) => ({
                     from: getDateWithHours(parse(date), strHeureDebut),
                     to: getDateWithHours(parse(date), strHeureFin)
