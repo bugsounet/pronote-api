@@ -8,7 +8,8 @@
     ],
     "author": [
         "Adrien 'Litarvan' Navratil <adrien1975@live.fr>",
-        "bugsounet <bugsounet@bugsounet.fr>"
+        "bugsounet <bugsounet@bugsounet.fr>",
+        "Julien \"delphiki\" Villetorte"
     ],
     "license": "MIT",
     "repository": {
@@ -17,13 +18,9 @@
     },
     "dependencies": {
         "axios": "^0.19",
-        "body-parser": "^1.19.0",
-        "graphql": "^15.3.0",
-        "jsdom": "^16.4.0",
         "node-forge": "0.6.33",
         "pako": "^1.0",
-        "polka": "^0.5.2",
-        "string-strip-html": "^5.0.1",
-        "uuid": "^8.3.0"
+        "jsdom": "^16.4.0",
+        "string-strip-html": "^5.0.1"
     }
 }
