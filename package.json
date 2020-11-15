@@ -18,7 +18,7 @@
     },
     "dependencies": {
         "axios": "^0.21",
-        "node-forge": "^0.6.33",
+        "node-forge": "0.6.33",
         "pako": "^1.0",
         "jsdom": "^16.4.0",
         "string-strip-html": "^6.2.0"
