@@ -18,6 +18,7 @@ API Pronote **2020/2021** complète et plutôt stable avec intégration de nombr
 - Absences/punitions/retenues
 - Informations
 - Menu de la cantine
+- Fichiers
 
 À chaque fois, il est possible de choisir quelle période voire quelle intervalle de jours récupérer précisément.
 
