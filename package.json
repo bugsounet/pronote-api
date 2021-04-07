@@ -1,6 +1,6 @@
 {
     "name": "@bugsounet/pronote-api",
-    "version": "1.0.13",
+    "version": "1.0.14",
     "description": "Personal Pronote api for MMM-Pronote",
     "main": "index.js",
     "keywords": [
@@ -20,8 +20,8 @@
         "axios": "^0.21.1",
         "node-forge": "0.6.33",
         "pako": "^1.0.11",
-        "jsdom": "^16.4.0",
-        "string-strip-html": "^8.0.0",
+        "jsdom": "^16.5.2",
+        "string-strip-html": "^8.2.9",
         "xxhashjs": "^0.2.2"
     }
 }
